@@ -86,6 +86,10 @@ h3.contactenos, form {
     margin-bottom: 40px;
 }
 
+button.send {
+    margin-top: 5px;
+}
+
 @media(max-width:767px) {
     .intro-header {
         text-align: center;

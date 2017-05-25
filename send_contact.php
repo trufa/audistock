@@ -206,7 +206,7 @@ $cuerpo = "<html>
 //}
 
 
-$para="trufavarela@gmail.com";
+$para="tvarela@audistock.com.uy,jmenchaca@audistock.com.uy,pgagliardi@audistock.com.uy";
 
 // título
 $título = 'Contacto Web';
